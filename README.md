@@ -22,10 +22,12 @@ What I learned during this process was:
 
 
 ## Setup
-Unity version - 2021.3.16f1
-.NET - 7.0.102
+- Unity version: 2021.3.16f1
+- .NET: 7.0.102
 
+## Play
+You can download the game directly from [Itch.io](https://igordiasth.itch.io/junin-ninja).
 
-### Reference
-The orignal game is inside the [course](https://awesometuts.com/unity?utm_source=yt&utm_medium=vid&utm_campaign=what_to_do_when_you_get_rejected_from_game_studio). I took the idea to replicate my game with the sprites that I found on the Unity website.
+## Reference
+The orignal game is from [Awesome Tuts](https://awesometuts.com/unity?utm_source=yt&utm_medium=vid&utm_campaign=what_to_do_when_you_get_rejected_from_game_studio). I took the idea to replicate my game with the sprites that I found on the Unity website.
 
